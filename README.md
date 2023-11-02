@@ -1,3 +1,3 @@
 # Vue 3 + Vite
 
-Write npm i and npm run dev
+Write "npm i" and "npm run dev"
