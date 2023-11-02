@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --ligth-blue: #2b83ffeb;
+  --border-color-input: #7575757a;
+  --main-background-color: #dad0d0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
