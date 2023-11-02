@@ -80,7 +80,7 @@ function deleteTodo(todo) {
 #todo-list {
     min-height: 100vh;
     padding-top: 20px;
-    background: linear-gradient(-45deg, rgb(230 52 83) 28%, rgba(34, 193, 195, 1) 75%);
+    background: linear-gradient(-45deg, rgb(52, 230, 120) 28%, rgb(151, 240, 78) 75%);
     animation: gradient 15s ease infinite;
     background-size: 400% 400%;
 }
